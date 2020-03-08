@@ -13,3 +13,17 @@ h1{
     height: 350px;
     background-image: url(img/anime.jpg);
 }
+.imagenfondo2{
+    height: 350px;
+    background-image: url(img/hxh.jpg);
+}
+.colorverde{
+    color: green;
+    font-weight: bold;
+}
+.hunter{
+    font-weight: italic;
+    font-family: Verdana;
+    color: green;
+    text-align: justify;
+}
