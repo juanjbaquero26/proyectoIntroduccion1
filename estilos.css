@@ -1,4 +1,4 @@
-h1{
+.titulo1{
     font-weight: bold;
 }
 .parrafo{
@@ -26,4 +26,18 @@ h1{
     font-family: Verdana;
     color: green;
     text-align: justify;
+}
+.titulo2{
+    font-weight: bold;
+    color: blue;
+}
+.imagenfondo3{
+    height: 700px;
+    background-image: url(img/fuego.jpg);
+}
+.tanjiro{
+    font-weight: italic;
+    font-family: Tahoma;
+    color: blue;
+    text-align: left;
 }
